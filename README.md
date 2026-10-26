@@ -6,7 +6,7 @@ Search U.S. court cases and legal topics using everyday language, explore matchi
 
 ## Try the Interactive Demo
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kbryan5393/legal-api-engineering-lab/blob/main/Court_Listener_Legal_Research_Tool.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kbryan5393/court-listener-legal-research-tool/blob/main/Court_Listener_Legal_Research_Tool.ipynb)
 
 1. Click **Open in Colab**.
 2. Scroll to the bottom of the notebook.
