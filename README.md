@@ -10,7 +10,7 @@ Search U.S. court cases and legal topics using everyday language, explore matchi
 
 1. Click **Open in Colab**.
 2. Scroll to the bottom of the notebook.
-3. Click the **Play** button beside the legal research dashboard code.
+3. Click the **Play** button beside the legal research dashboard code to refresh search engine.
 4. Enter a case name or legal topic.
 5. Click **Search CourtListener** and allow a few seconds for results.
 
