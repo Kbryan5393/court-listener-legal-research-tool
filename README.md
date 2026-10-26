@@ -1,4 +1,4 @@
-# legal-api-engineering-lab
+# Court_Listener_Legal_Research_Tool.ipynb
 Interactive legal case search and data engineering project using Python, CourtListener API, Pandas, SQL, and automated testing.
 ## Try the Interactive Demo
 
